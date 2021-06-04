@@ -434,6 +434,9 @@ def a_s():
     print 47 * '-'
     print '\t\x1b[1;94mQueen Of Fb Xtylish Pathani\x1b[1;91m'
     print 47 * '-'
+    print '\033[1;93m[MUSKI-CP]➤ 100067908193841 | 7682451
+    print '\033[1;92m[MUSKI-OK]➤ 100067955873660 | 5459903
+    print '\033[1;92m[MUSKI-OK]➤ 100068091550792 | 03146578334
 
     def main(arg):
         user = arg
